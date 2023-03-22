@@ -1,0 +1,14 @@
+/* 1 */
+#homebutton {
+  margin-top: 25px;
+  background: #0077cc;
+  border: #008aec solid;
+  width: 225px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 20px;
+    color: white;
+}
+#homebutton:hover {
+   background: #fd7702b3;
+}
